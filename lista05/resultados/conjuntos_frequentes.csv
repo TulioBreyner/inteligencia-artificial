@@ -1,0 +1,506 @@
+support,itemsets,tamanho
+0.633,pao,1
+0.63,leite,1
+0.624,"leite, pao",2
+0.519,arroz,1
+0.512,feijao,1
+0.503,"arroz, feijao",2
+0.49,hortifruti,1
+0.393,cafe,1
+0.39,acucar,1
+0.373,"acucar, cafe",2
+0.346,manteiga,1
+0.339,"manteiga, pao",2
+0.339,"leite, manteiga",2
+0.339,"leite, manteiga, pao",3
+0.338,cerveja,1
+0.329,"arroz, pao",2
+0.326,"feijao, pao",2
+0.325,"arroz, leite",2
+0.323,"arroz, leite, pao",3
+0.322,"feijao, leite",2
+0.32,"feijao, leite, pao",3
+0.319,"arroz, feijao, pao",3
+0.315,"arroz, feijao, leite",3
+0.313,"hortifruti, pao",2
+0.313,"arroz, feijao, leite, pao",4
+0.312,"hortifruti, leite",2
+0.309,"hortifruti, leite, pao",3
+0.288,frango,1
+0.271,"arroz, frango",2
+0.27,"feijao, frango",2
+0.27,"arroz, feijao, frango",3
+0.261,carne,1
+0.252,limpeza,1
+0.246,"arroz, hortifruti",2
+0.246,"feijao, hortifruti",2
+0.245,"carne, feijao",2
+0.244,"arroz, carne",2
+0.244,"arroz, carne, feijao",3
+0.239,"cafe, pao",2
+0.239,"arroz, feijao, hortifruti",3
+0.238,"cafe, leite",2
+0.237,"acucar, pao",2
+0.236,"acucar, leite",2
+0.235,"cafe, leite, pao",3
+0.233,"acucar, leite, pao",3
+0.227,"acucar, cafe, pao",3
+0.226,"acucar, cafe, leite",3
+0.223,"acucar, cafe, leite, pao",4
+0.21,refrigerante,1
+0.209,"cerveja, pao",2
+0.208,"cerveja, leite",2
+0.206,"cerveja, leite, pao",3
+0.205,"arroz, cafe",2
+0.204,"acucar, arroz",2
+0.202,"cafe, feijao",2
+0.201,"acucar, feijao",2
+0.2,"arroz, cafe, feijao",3
+0.199,"acucar, arroz, feijao",3
+0.193,"acucar, arroz, cafe",3
+0.191,"cerveja, refrigerante",2
+0.19,"acucar, cafe, feijao",3
+0.188,"acucar, arroz, cafe, feijao",4
+0.185,"arroz, manteiga",2
+0.183,"cafe, hortifruti",2
+0.182,"frango, pao",2
+0.181,"feijao, manteiga",2
+0.181,"arroz, manteiga, pao",3
+0.181,"arroz, leite, manteiga",3
+0.181,"arroz, leite, manteiga, pao",4
+0.179,"frango, leite",2
+0.179,"acucar, hortifruti",2
+0.179,"frango, leite, pao",3
+0.178,"feijao, manteiga, pao",3
+0.178,"feijao, leite, manteiga",3
+0.178,"feijao, leite, manteiga, pao",4
+0.177,"arroz, feijao, manteiga",3
+0.176,"cerveja, hortifruti",2
+0.174,"arroz, feijao, manteiga, pao",4
+0.174,"arroz, feijao, leite, manteiga",4
+0.172,"arroz, frango, pao",3
+0.172,"acucar, cafe, hortifruti",3
+0.171,"feijao, frango, pao",3
+0.171,"arroz, feijao, frango, pao",4
+0.169,"hortifruti, manteiga",2
+0.169,"arroz, frango, leite",3
+0.169,"arroz, frango, leite, pao",4
+0.168,"arroz, cerveja",2
+0.168,"feijao, frango, leite",3
+0.168,"feijao, frango, leite, pao",4
+0.168,"arroz, feijao, frango, leite",4
+0.167,"limpeza, pao",2
+0.166,"leite, limpeza",2
+0.166,"cerveja, feijao",2
+0.166,"leite, limpeza, pao",3
+0.165,"carne, pao",2
+0.165,"hortifruti, manteiga, pao",3
+0.165,"hortifruti, leite, manteiga",3
+0.165,"arroz, cerveja, feijao",3
+0.165,"hortifruti, leite, manteiga, pao",4
+0.164,"carne, leite",2
+0.162,"carne, leite, pao",3
+0.158,"feijao, hortifruti, pao",3
+0.157,"arroz, carne, pao",3
+0.157,"arroz, hortifruti, pao",3
+0.157,"carne, feijao, pao",3
+0.157,"feijao, hortifruti, leite",3
+0.157,"arroz, carne, feijao, pao",4
+0.156,"arroz, carne, leite",3
+0.156,"arroz, hortifruti, leite",3
+0.156,"carne, feijao, leite",3
+0.156,"feijao, hortifruti, leite, pao",4
+0.156,"arroz, carne, feijao, leite",4
+0.155,"arroz, hortifruti, leite, pao",4
+0.154,"arroz, carne, leite, pao",4
+0.154,"carne, feijao, leite, pao",4
+0.153,"arroz, feijao, hortifruti, pao",4
+0.152,"arroz, feijao, hortifruti, leite",4
+0.135,"pao, refrigerante",2
+0.135,"frango, hortifruti",2
+0.134,"leite, refrigerante",2
+0.134,"leite, pao, refrigerante",3
+0.131,doces,1
+0.131,"acucar, cerveja",2
+0.13,"cafe, cerveja",2
+0.129,"feijao, limpeza",2
+0.128,"arroz, limpeza",2
+0.128,"carne, hortifruti",2
+0.127,"hortifruti, limpeza",2
+0.127,"arroz, feijao, limpeza",3
+0.127,"arroz, frango, hortifruti",3
+0.127,"feijao, frango, hortifruti",3
+0.127,"arroz, feijao, frango, hortifruti",4
+0.125,"arroz, cafe, pao",3
+0.125,"acucar, arroz, pao",3
+0.125,"arroz, cafe, leite",3
+0.125,"acucar, arroz, leite",3
+0.124,"cafe, feijao, pao",3
+0.124,"acucar, feijao, pao",3
+0.124,"cafe, feijao, leite",3
+0.124,"acucar, feijao, leite",3
+0.123,"arroz, cafe, leite, pao",4
+0.123,"acucar, arroz, leite, pao",4
+0.122,"cafe, manteiga",2
+0.122,"cerveja, pao, refrigerante",3
+0.122,"acucar, cafe, cerveja",3
+0.122,"cafe, feijao, leite, pao",4
+0.122,"acucar, feijao, leite, pao",4
+0.122,"arroz, cafe, feijao, pao",4
+0.122,"acucar, arroz, feijao, pao",4
+0.122,"arroz, cafe, feijao, leite",4
+0.122,"acucar, arroz, feijao, leite",4
+0.121,"acucar, manteiga",2
+0.121,"cerveja, leite, refrigerante",3
+0.121,"cerveja, leite, pao, refrigerante",4
+0.12,"acucar, manteiga, pao",3
+0.12,"acucar, leite, manteiga",3
+0.12,"carne, feijao, hortifruti",3
+0.12,"acucar, leite, manteiga, pao",4
+0.119,"cafe, manteiga, pao",3
+0.119,"cafe, leite, manteiga",3
+0.119,"arroz, carne, hortifruti",3
+0.119,"cafe, leite, manteiga, pao",4
+0.119,"arroz, carne, feijao, hortifruti",4
+0.118,"acucar, arroz, cafe, pao",4
+0.118,"acucar, arroz, cafe, leite",4
+0.117,"acucar, cafe, feijao, pao",4
+0.117,"acucar, cafe, feijao, leite",4
+0.116,"cafe, hortifruti, pao",3
+0.115,"cerveja, doces",2
+0.115,"cafe, hortifruti, leite",3
+0.114,"cafe, hortifruti, leite, pao",4
+0.113,"cerveja, manteiga",2
+0.113,"acucar, hortifruti, pao",3
+0.113,"acucar, cafe, manteiga",3
+0.112,"acucar, frango",2
+0.112,"acucar, hortifruti, leite",3
+0.112,"acucar, cafe, manteiga, pao",4
+0.112,"acucar, cafe, leite, manteiga",4
+0.111,"cafe, frango",2
+0.111,"cerveja, hortifruti, leite",3
+0.111,"acucar, hortifruti, leite, pao",4
+0.11,"cerveja, manteiga, pao",3
+0.11,"cerveja, hortifruti, pao",3
+0.11,"cerveja, leite, manteiga",3
+0.11,"cerveja, leite, manteiga, pao",4
+0.109,"cerveja, hortifruti, leite, pao",4
+0.108,"acucar, cafe, hortifruti, pao",4
+0.107,"arroz, refrigerante",2
+0.107,"acucar, cafe, hortifruti, leite",4
+0.105,"cafe, carne",2
+0.105,"cafe, limpeza",2
+0.105,"acucar, carne",2
+0.105,"acucar, limpeza",2
+0.105,"feijao, refrigerante",2
+0.105,"cerveja, frango",2
+0.105,"acucar, arroz, frango",3
+0.105,"acucar, feijao, frango",3
+0.105,"acucar, arroz, feijao, frango",4
+0.104,"acucar, cafe, frango",3
+0.104,"arroz, cafe, frango",3
+0.104,"cafe, feijao, frango",3
+0.104,"arroz, feijao, refrigerante",3
+0.104,"arroz, cafe, feijao, frango",4
+0.101,"arroz, cerveja, pao",3
+0.101,"acucar, cafe, limpeza",3
+0.1,"frango, manteiga",2
+0.1,"hortifruti, refrigerante",2
+0.1,"arroz, cerveja, leite",3
+0.099,"cerveja, feijao, pao",3
+0.099,"acucar, cafe, carne",3
+0.099,"arroz, cafe, carne",3
+0.099,"cafe, carne, feijao",3
+0.099,"arroz, cerveja, frango",3
+0.099,"arroz, cerveja, refrigerante",3
+0.099,"cerveja, feijao, frango",3
+0.099,"arroz, cerveja, leite, pao",4
+0.099,"arroz, cerveja, feijao, pao",4
+0.099,"arroz, cafe, carne, feijao",4
+0.099,"arroz, cerveja, feijao, frango",4
+0.098,"cerveja, feijao, leite",3
+0.098,"acucar, arroz, carne",3
+0.098,"acucar, carne, feijao",3
+0.098,"cerveja, feijao, refrigerante",3
+0.098,"arroz, cerveja, feijao, leite",4
+0.098,"acucar, arroz, cafe, frango",4
+0.098,"acucar, cafe, feijao, frango",4
+0.098,"acucar, arroz, carne, feijao",4
+0.097,"frango, manteiga, pao",3
+0.097,"frango, leite, manteiga",3
+0.097,"arroz, frango, manteiga",3
+0.097,"feijao, frango, manteiga",3
+0.097,"frango, leite, manteiga, pao",4
+0.097,"cerveja, feijao, leite, pao",4
+0.097,"arroz, feijao, frango, manteiga",4
+0.097,"arroz, cerveja, feijao, refrigerante",4
+0.094,"arroz, frango, manteiga, pao",4
+0.094,"feijao, frango, manteiga, pao",4
+0.094,"arroz, frango, leite, manteiga",4
+0.094,"feijao, frango, leite, manteiga",4
+0.093,"cerveja, hortifruti, refrigerante",3
+0.093,"acucar, arroz, cafe, carne",4
+0.093,"acucar, cafe, carne, feijao",4
+0.092,"arroz, cafe, hortifruti",3
+0.091,"doces, pao",2
+0.091,"doces, leite",2
+0.09,"doces, leite, pao",3
+0.09,"feijao, limpeza, pao",3
+0.09,"frango, hortifruti, pao",3
+0.09,"feijao, leite, limpeza",3
+0.09,"cafe, feijao, hortifruti",3
+0.09,"arroz, hortifruti, manteiga",3
+0.09,"feijao, leite, limpeza, pao",4
+0.089,"frango, hortifruti, leite",3
+0.089,"acucar, arroz, hortifruti",3
+0.089,"frango, hortifruti, leite, pao",4
+0.089,"arroz, cafe, feijao, hortifruti",4
+0.088,"carne, manteiga",2
+0.088,"cerveja, limpeza",2
+0.088,"carne, manteiga, pao",3
+0.088,"arroz, limpeza, pao",3
+0.088,"carne, leite, manteiga",3
+0.088,"arroz, leite, limpeza",3
+0.088,"feijao, hortifruti, manteiga",3
+0.088,"carne, leite, manteiga, pao",4
+0.088,"arroz, leite, limpeza, pao",4
+0.088,"arroz, feijao, limpeza, pao",4
+0.088,"arroz, feijao, leite, limpeza",4
+0.087,"acucar, feijao, hortifruti",3
+0.087,"arroz, hortifruti, manteiga, pao",4
+0.087,"arroz, hortifruti, leite, manteiga",4
+0.086,"hortifruti, limpeza, pao",3
+0.086,"hortifruti, leite, limpeza",3
+0.086,"hortifruti, leite, limpeza, pao",4
+0.086,"feijao, hortifruti, manteiga, pao",4
+0.086,"feijao, hortifruti, leite, manteiga",4
+0.086,"acucar, arroz, feijao, hortifruti",4
+0.085,"arroz, cerveja, hortifruti",3
+0.085,"acucar, arroz, cafe, hortifruti",4
+0.085,"arroz, feijao, hortifruti, manteiga",4
+0.084,"arroz, carne, manteiga",3
+0.084,"carne, feijao, manteiga",3
+0.084,"cerveja, feijao, hortifruti",3
+0.084,"arroz, carne, manteiga, pao",4
+0.084,"carne, feijao, manteiga, pao",4
+0.084,"arroz, frango, hortifruti, pao",4
+0.084,"feijao, frango, hortifruti, pao",4
+0.084,"arroz, carne, leite, manteiga",4
+0.084,"carne, feijao, leite, manteiga",4
+0.084,"arroz, carne, feijao, manteiga",4
+0.083,"limpeza, manteiga",2
+0.083,"acucar, refrigerante",2
+0.083,"arroz, frango, hortifruti, leite",4
+0.083,"feijao, frango, hortifruti, leite",4
+0.083,"acucar, cafe, feijao, hortifruti",4
+0.083,"arroz, cerveja, feijao, hortifruti",4
+0.082,"cafe, refrigerante",2
+0.081,"limpeza, manteiga, pao",3
+0.081,"leite, limpeza, manteiga",3
+0.081,"leite, limpeza, manteiga, pao",4
+0.08,"carne, hortifruti, pao",3
+0.08,"carne, hortifruti, leite",3
+0.079,"acucar, cafe, refrigerante",3
+0.079,"carne, hortifruti, leite, pao",4
+0.078,"cerveja, doces, pao",3
+0.078,"cerveja, doces, leite",3
+0.077,"cerveja, doces, leite, pao",4
+0.076,"acucar, cerveja, pao",3
+0.075,"cafe, cerveja, pao",3
+0.075,"acucar, cerveja, leite",3
+0.075,"acucar, cerveja, refrigerante",3
+0.075,"arroz, carne, hortifruti, pao",4
+0.075,"carne, feijao, hortifruti, pao",4
+0.075,"arroz, carne, hortifruti, leite",4
+0.075,"carne, feijao, hortifruti, leite",4
+0.074,"cafe, cerveja, leite",3
+0.074,"cafe, cerveja, refrigerante",3
+0.074,"acucar, cerveja, leite, pao",4
+0.073,"carne, cerveja",2
+0.073,"cafe, cerveja, leite, pao",4
+0.072,"acucar, cafe, cerveja, pao",4
+0.071,"manteiga, refrigerante",2
+0.071,"doces, hortifruti",2
+0.071,"manteiga, pao, refrigerante",3
+0.071,"leite, manteiga, refrigerante",3
+0.071,"leite, manteiga, pao, refrigerante",4
+0.071,"acucar, cafe, cerveja, leite",4
+0.071,"acucar, cafe, cerveja, refrigerante",4
+0.07,"carne, cerveja, feijao",3
+0.069,"carne, limpeza",2
+0.069,"cafe, limpeza, pao",3
+0.069,"acucar, limpeza, pao",3
+0.069,"arroz, carne, cerveja",3
+0.069,"feijao, hortifruti, limpeza",3
+0.069,"arroz, carne, cerveja, feijao",4
+0.068,"frango, limpeza",2
+0.068,"cerveja, frango, pao",3
+0.068,"cafe, leite, limpeza",3
+0.068,"acucar, leite, limpeza",3
+0.068,"cerveja, frango, leite",3
+0.068,"arroz, hortifruti, limpeza",3
+0.068,"cafe, leite, limpeza, pao",4
+0.068,"acucar, leite, limpeza, pao",4
+0.068,"cerveja, frango, leite, pao",4
+0.068,"arroz, feijao, hortifruti, limpeza",4
+0.067,"acucar, frango, pao",3
+0.067,"arroz, pao, refrigerante",3
+0.067,"hortifruti, pao, refrigerante",3
+0.067,"acucar, frango, leite",3
+0.067,"acucar, frango, leite, pao",4
+0.067,"acucar, cafe, limpeza, pao",4
+0.066,"cafe, carne, pao",3
+0.066,"cafe, carne, leite",3
+0.066,"arroz, leite, refrigerante",3
+0.066,"hortifruti, leite, refrigerante",3
+0.066,"arroz, carne, limpeza",3
+0.066,"arroz, frango, limpeza",3
+0.066,"carne, feijao, limpeza",3
+0.066,"feijao, frango, limpeza",3
+0.066,"arroz, leite, pao, refrigerante",4
+0.066,"hortifruti, leite, pao, refrigerante",4
+0.066,"acucar, cafe, leite, limpeza",4
+0.066,"arroz, carne, feijao, limpeza",4
+0.066,"arroz, feijao, frango, limpeza",4
+0.065,"arroz, doces",2
+0.065,"acucar, carne, pao",3
+0.065,"feijao, pao, refrigerante",3
+0.065,"acucar, carne, leite",3
+0.065,"arroz, cafe, manteiga",3
+0.065,"arroz, feijao, pao, refrigerante",4
+0.065,"arroz, cerveja, frango, pao",4
+0.065,"cerveja, feijao, frango, pao",4
+0.065,"arroz, cerveja, frango, leite",4
+0.065,"cerveja, feijao, frango, leite",4
+0.064,"doces, refrigerante",2
+0.064,"cafe, frango, pao",3
+0.064,"cafe, frango, leite",3
+0.064,"feijao, leite, refrigerante",3
+0.064,"cafe, feijao, manteiga",3
+0.064,"cafe, cerveja, hortifruti",3
+0.064,"acucar, arroz, manteiga",3
+0.064,"acucar, cerveja, hortifruti",3
+0.064,"cafe, carne, leite, pao",4
+0.064,"cafe, frango, leite, pao",4
+0.064,"feijao, leite, pao, refrigerante",4
+0.064,"arroz, cafe, carne, pao",4
+0.064,"cafe, carne, feijao, pao",4
+0.064,"arroz, cafe, carne, leite",4
+0.064,"cafe, carne, feijao, leite",4
+0.064,"arroz, feijao, leite, refrigerante",4
+0.063,"doces, feijao",2
+0.063,"frango, refrigerante",2
+0.063,"acucar, feijao, manteiga",3
+0.063,"arroz, doces, feijao",3
+0.063,"cerveja, doces, refrigerante",3
+0.063,"acucar, carne, leite, pao",4
+0.063,"acucar, arroz, manteiga, pao",4
+0.063,"acucar, arroz, frango, pao",4
+0.063,"acucar, feijao, frango, pao",4
+0.063,"acucar, arroz, leite, manteiga",4
+0.063,"acucar, arroz, frango, leite",4
+0.063,"acucar, feijao, frango, leite",4
+0.063,"arroz, cafe, feijao, manteiga",4
+0.062,"cerveja, manteiga, refrigerante",3
+0.062,"acucar, arroz, cerveja",3
+0.062,"arroz, frango, refrigerante",3
+0.062,"feijao, frango, refrigerante",3
+0.062,"arroz, cafe, manteiga, pao",4
+0.062,"acucar, cafe, frango, pao",4
+0.062,"acucar, feijao, manteiga, pao",4
+0.062,"cerveja, manteiga, pao, refrigerante",4
+0.062,"acucar, arroz, carne, pao",4
+0.062,"acucar, carne, feijao, pao",4
+0.062,"arroz, cerveja, pao, refrigerante",4
+0.062,"cerveja, hortifruti, pao, refrigerante",4
+0.062,"arroz, cafe, leite, manteiga",4
+0.062,"acucar, cafe, frango, leite",4
+0.062,"acucar, feijao, leite, manteiga",4
+0.062,"cerveja, leite, manteiga, refrigerante",4
+0.062,"acucar, arroz, carne, leite",4
+0.062,"acucar, carne, feijao, leite",4
+0.062,"acucar, arroz, feijao, manteiga",4
+0.062,"arroz, feijao, frango, refrigerante",4
+0.061,"cerveja, hortifruti, manteiga",3
+0.061,"cafe, feijao, manteiga, pao",4
+0.061,"acucar, cafe, carne, pao",4
+0.061,"arroz, cafe, frango, pao",4
+0.061,"cafe, feijao, frango, pao",4
+0.061,"cafe, feijao, leite, manteiga",4
+0.061,"acucar, cafe, carne, leite",4
+0.061,"arroz, cafe, frango, leite",4
+0.061,"cafe, feijao, frango, leite",4
+0.061,"arroz, cerveja, leite, refrigerante",4
+0.061,"cerveja, hortifruti, leite, refrigerante",4
+0.061,"acucar, cafe, cerveja, hortifruti",4
+0.06,"cerveja, limpeza, pao",3
+0.06,"acucar, cerveja, feijao",3
+0.06,"cerveja, frango, refrigerante",3
+0.06,"cerveja, doces, hortifruti",3
+0.06,"cerveja, feijao, pao, refrigerante",4
+0.06,"acucar, arroz, cerveja, feijao",4
+0.059,"cerveja, leite, limpeza",3
+0.059,"cafe, hortifruti, manteiga",3
+0.059,"arroz, cafe, cerveja",3
+0.059,"cerveja, leite, limpeza, pao",4
+0.059,"cerveja, hortifruti, manteiga, pao",4
+0.059,"cerveja, hortifruti, leite, manteiga",4
+0.059,"cerveja, feijao, leite, refrigerante",4
+0.059,"arroz, cerveja, frango, refrigerante",4
+0.059,"cerveja, feijao, frango, refrigerante",4
+0.058,"limpeza, refrigerante",2
+0.058,"acucar, arroz, cafe, manteiga",4
+0.057,"cafe, cerveja, feijao",3
+0.057,"arroz, cerveja, doces",3
+0.057,"cafe, hortifruti, manteiga, pao",4
+0.057,"cafe, hortifruti, leite, manteiga",4
+0.057,"acucar, cafe, feijao, manteiga",4
+0.057,"arroz, cafe, cerveja, feijao",4
+0.056,"cafe, feijao, limpeza",3
+0.056,"acucar, hortifruti, manteiga",3
+0.056,"arroz, cafe, hortifruti, pao",4
+0.056,"acucar, hortifruti, manteiga, pao",4
+0.056,"arroz, cafe, hortifruti, leite",4
+0.056,"acucar, hortifruti, leite, manteiga",4
+0.055,"arroz, cafe, limpeza",3
+0.055,"acucar, feijao, limpeza",3
+0.055,"cerveja, doces, feijao",3
+0.055,"cafe, feijao, hortifruti, pao",4
+0.055,"cafe, feijao, hortifruti, leite",4
+0.055,"acucar, arroz, cafe, cerveja",4
+0.055,"arroz, cerveja, doces, feijao",4
+0.054,"arroz, cerveja, manteiga",3
+0.054,"acucar, arroz, limpeza",3
+0.054,"acucar, arroz, hortifruti, pao",4
+0.054,"acucar, arroz, hortifruti, leite",4
+0.054,"acucar, cafe, feijao, limpeza",4
+0.054,"arroz, cafe, feijao, limpeza",4
+0.053,"cafe, carne, hortifruti",3
+0.053,"arroz, cerveja, manteiga, pao",4
+0.053,"acucar, feijao, hortifruti, pao",4
+0.053,"arroz, cerveja, leite, manteiga",4
+0.053,"acucar, feijao, hortifruti, leite",4
+0.053,"acucar, arroz, cafe, limpeza",4
+0.053,"acucar, cafe, cerveja, feijao",4
+0.053,"acucar, arroz, feijao, limpeza",4
+0.052,"doces, manteiga",2
+0.052,"cerveja, feijao, manteiga",3
+0.052,"acucar, carne, hortifruti",3
+0.052,"cerveja, limpeza, refrigerante",3
+0.052,"arroz, cerveja, hortifruti, pao",4
+0.052,"feijao, hortifruti, limpeza, pao",4
+0.052,"arroz, cerveja, hortifruti, leite",4
+0.052,"feijao, hortifruti, leite, limpeza",4
+0.052,"arroz, cerveja, feijao, manteiga",4
+0.051,"doces, manteiga, pao",3
+0.051,"doces, leite, manteiga",3
+0.051,"doces, leite, manteiga, pao",4
+0.051,"cerveja, feijao, manteiga, pao",4
+0.051,"arroz, hortifruti, limpeza, pao",4
+0.051,"cerveja, feijao, hortifruti, pao",4
+0.051,"cerveja, feijao, leite, manteiga",4
+0.051,"arroz, hortifruti, leite, limpeza",4
+0.051,"cerveja, feijao, hortifruti, leite",4
+0.051,"acucar, cafe, hortifruti, manteiga",4
+0.05,"acucar, hortifruti, limpeza",3
+0.05,"cerveja, frango, hortifruti",3
