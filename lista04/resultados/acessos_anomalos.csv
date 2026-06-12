@@ -1,0 +1,9 @@
+id_registro,hora_acesso,duracao_sessao_min,numero_tentativas_login,ip_diferente_habitual,quantidade_paginas_acessadas,anomalia,score,classificacao
+72,22,300,1,1,120,-1,-0.07906140014173546,Anomalia
+55,23,300,1,1,110,-1,-0.05597724892397171,Anomalia
+43,1,120,1,1,60,-1,-0.0493746575672569,Anomalia
+76,3,240,1,1,110,-1,-0.023733379377183117,Anomalia
+67,23,180,1,1,70,-1,-0.012614321150717811,Anomalia
+47,2,6,9,1,3,-1,-0.007615710963723599,Anomalia
+52,3,150,1,1,65,-1,-0.0027995878492999005,Anomalia
+69,2,240,1,1,100,-1,-5.981266220400627e-05,Anomalia
